@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntranetBranding", "IntranetBranding\IntranetBranding.csproj", "{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntranetBrandingWeb", "IntranetBrandingWeb\IntranetBrandingWeb.csproj", "{5A7EB15B-0231-4FFA-BF75-254FA784F795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9752D4-1C9F-4E76-9BA8-6D4AE9A494D8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5A7EB15B-0231-4FFA-BF75-254FA784F795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7EB15B-0231-4FFA-BF75-254FA784F795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7EB15B-0231-4FFA-BF75-254FA784F795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7EB15B-0231-4FFA-BF75-254FA784F795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿/* Place custom styles below */
+#message {
+    font: 18px 'Segoe UI';
+    margin-left:50px;
+}
+
+#message div{
+    margin-bottom:30px;
+}
+
